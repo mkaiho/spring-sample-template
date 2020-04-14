@@ -39,7 +39,7 @@
 
 ### start minikube
 
-- `minikube --vm-driver=virtualbox start`
+- `minikube start --vm-driver=virtualbox --memory='4g'`
 
 ### check contexts
 
